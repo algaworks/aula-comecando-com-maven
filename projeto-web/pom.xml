@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.algaworks</groupId>
-	<artifactId>calculadora-inss</artifactId>
+	<artifactId>projeto-web</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
 	<packaging>war</packaging>
